@@ -7,6 +7,7 @@ public class App {
         List<String> students= new ArrayList<>();
         students.add("Danah");
         students.add("Raghadah");
+        students.add("Norah");
 students.sort(null);
 System.out.print(students);
     }
