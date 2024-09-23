@@ -8,6 +8,7 @@ public class App {
         students.add("Danah");
         students.add("Raghadah");
         students.add("Norah");
+        students.add("Noor");
 students.sort(null);
 System.out.print(students);
     }
